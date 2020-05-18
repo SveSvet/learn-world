@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/learn-world/static/css/main.8f475ca0.chunk.css",
+    "main.js": "/learn-world/static/js/main.ab75b894.chunk.js",
+    "main.js.map": "/learn-world/static/js/main.ab75b894.chunk.js.map",
+    "runtime-main.js": "/learn-world/static/js/runtime-main.5c224a04.js",
+    "runtime-main.js.map": "/learn-world/static/js/runtime-main.5c224a04.js.map",
+    "static/js/2.27d174f6.chunk.js": "/learn-world/static/js/2.27d174f6.chunk.js",
+    "static/js/2.27d174f6.chunk.js.map": "/learn-world/static/js/2.27d174f6.chunk.js.map",
+    "index.html": "/learn-world/index.html",
+    "precache-manifest.367021c47e803d6e46a4c3a0c949239f.js": "/learn-world/precache-manifest.367021c47e803d6e46a4c3a0c949239f.js",
+    "service-worker.js": "/learn-world/service-worker.js",
+    "static/css/main.8f475ca0.chunk.css.map": "/learn-world/static/css/main.8f475ca0.chunk.css.map",
+    "static/js/2.27d174f6.chunk.js.LICENSE.txt": "/learn-world/static/js/2.27d174f6.chunk.js.LICENSE.txt",
+    "static/media/1.jpeg": "/learn-world/static/media/1.e849b603.jpeg",
+    "static/media/10.jpg": "/learn-world/static/media/10.205888b5.jpg",
+    "static/media/11.jpg": "/learn-world/static/media/11.02c21ed9.jpg",
+    "static/media/2.jpg": "/learn-world/static/media/2.8ca5d654.jpg",
+    "static/media/4.jpg": "/learn-world/static/media/4.43144040.jpg",
+    "static/media/5.jpg": "/learn-world/static/media/5.43e75785.jpg",
+    "static/media/6.jpg": "/learn-world/static/media/6.8e57133f.jpg",
+    "static/media/7.jpg": "/learn-world/static/media/7.14bea63a.jpg",
+    "static/media/8.jpg": "/learn-world/static/media/8.b021c91e.jpg",
+    "static/media/9.jpg": "/learn-world/static/media/9.773187e8.jpg",
+    "static/media/App.module.css": "/learn-world/static/media/Jost-Regular.435c89e6.ttf",
+    "static/media/Block.module.css": "/learn-world/static/media/background.898d65d0.jpg",
+    "static/media/logo.5d5d9eef.svg": "/learn-world/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c224a04.js",
+    "static/js/2.27d174f6.chunk.js",
+    "static/css/main.8f475ca0.chunk.css",
+    "static/js/main.ab75b894.chunk.js"
+  ]
+}
