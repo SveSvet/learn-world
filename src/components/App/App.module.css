@@ -1,0 +1,54 @@
+*{margin: 0; padding: 0}
+
+@font-face {
+  font-family: Jost;
+  src: url("./accets/Jost-Black.ttf");
+  src: url("./accets/Jost-Bold.ttf");
+  src: url("./accets/Jost-ExtraBold.ttf");
+  src: url("./accets/Jost-ExtraLight.ttf");
+  src: url("./accets/Jost-Light.ttf");
+  src: url("./accets/Jost-Medium.ttf");
+  src: url("./accets/Jost-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+  font-family: Jost, Roboto sans-serif;
+}
+
+.wrap {
+  height: 100%;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.appCard {
+  margin: 20px 0;
+  width: 100%;
+  height: 650px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 650px) {
+  .appCard {
+    padding: 0 20px;
+    height: 750px;
+  }
+}
+@media (max-width: 500px) {
+  .appCard {
+    height: 1500px;
+    flex-wrap: initial;
+  }
+}

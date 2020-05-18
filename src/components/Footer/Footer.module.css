@@ -1,0 +1,19 @@
+.wrap {
+  margin-top: 20px;
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+
+  background-color: #266258;
+}
+
+.logo {
+  width: 80px;
+}
+
+@media (max-width: 650px) {
+  .logo {
+    width: 60px;
+  }
+}

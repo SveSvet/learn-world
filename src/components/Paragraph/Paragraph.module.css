@@ -1,0 +1,18 @@
+.paragraph {
+  text-align: center;
+  color: #E6E6E6;
+  font-size: 34px;
+  z-index: 1;
+}
+
+@media (max-width: 650px) {
+  .paragraph {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 500px) {
+  .paragraph {
+    font-size: 24px;
+  }
+}
